@@ -2,7 +2,7 @@
 # File: guessinggame.sh
 
 cfiles=$(ls | wc -l) # number of files
-number=0 # enter the number
+number=-1 # enter the number
 
 red="\033[0;31m"
 green="\033[0;32m"
